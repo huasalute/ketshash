@@ -4,7 +4,7 @@ function Invoke-DetectPTH(){
 	Using event viewer to detect suspicious privileged NTLM connections such as Pass-the-Hash
 	Author: Eviatar Gerzi (@g3rzi)
 	
-	Version 1.5: 16.1.2018
+	Version 1.5: 16.1.2019
 		- Added check when computer name is NULL.
 
 	Version 1.4: 4.1.2018
